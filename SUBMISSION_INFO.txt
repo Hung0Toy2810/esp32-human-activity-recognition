@@ -1,0 +1,11 @@
+GÓI NỘP TIỂU LUẬN
+
+Sinh viên: Lương Nguyễn Thành Hưng — MSSV: 23110111
+Mã nguồn: https://github.com/Hung0Toy2810/AI4IoT_final_project
+
+- LuongNguyenThanhHung_final.docx: báo cáo đã đối chiếu nguồn và số liệu; 26 trang.
+- LuongNguyenThanhHung_final.pptx: bản trình chiếu hiện tại, 23 slide.
+- references/: 11 bài báo PDF, mỗi mục trong Word ứng với đúng một file.
+- source/: notebook đã có output, firmware ESP32, dependency, checkpoint đã chốt và các bản ghi kết quả.
+
+Source không kèm môi trường .venv, cache build hoặc dữ liệu tín hiệu dung lượng lớn. Notebook hiện tại khóa checkpoint và kiểm tra artifact của phiên thí nghiệm; các cell đo phần cứng cần ESP32 và SDK PlatformIO. Xem source/README.md trước khi chạy.
