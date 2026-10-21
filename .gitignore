@@ -1,0 +1,16 @@
+# Local environments and generated files
+.DS_Store
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/.ipynb_checkpoints/
+**/.pio/
+*.tmp
+*.log
+~$*
+
+# Downloaded reference papers are cited in source/reference_audit.md
+references/
+
+# Binary experiment artifacts are distributed in GitHub Releases
+source/artifacts/
